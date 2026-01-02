@@ -36,6 +36,9 @@
 git clone https://github.com/MobinaArabnejad/breast-cancer-classification.git
 cd breast-cancer-classification
 
----
-## datast:
-https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
+## Dataset
+
+This project uses the Breast Cancer Wisconsin dataset.
+
+- Source: Kaggle (UCI ML repository)  
+- Link: https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
